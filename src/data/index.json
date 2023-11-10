@@ -1,0 +1,106 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, Javascript, React and Angular. Web APIs, JQuery and more"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Node.js, Express.js, Postman, SQL, NoSQL. Java, REST, GraphQL and more"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "React libraries, Bootstrap, Adobe and more"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "CI/CD pipelines, Git, Heroku. CMS systems, SEO optimization and more"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/juice.PNG",
+      "title": "Juice Calender",
+      "description": "Collabratively made application that uses Food RapidAPI to create smoothie recipes and assigns the recipe for a specific day of the week",
+      "link": "View Live Deployment",
+      "website": "https://derrick-edowen.github.io/project-1-juice-calendar/"
+    },
+    {
+      "id": "2",
+      "src": "./img/colour.PNG",
+      "title": "Colour Flipper",
+      "description": "JavaScript application that randomly changes the background colour of web page on-click. Contains simple randomizer and complex one that uses hex-code colours",
+      "link": "View Live Deployment",
+      "website": "https://derrick-edowen.github.io/Colour-Flipper/"
+    },
+    {
+      "id": "3",
+      "src": "./img/editor.PNG",
+      "title": "Text Editor",
+      "description": "Progressive Web Application used to edit user text. Capable of installation on user systems",
+      "link": "View Live Deployment",
+      "website": "https://arcane-bastion-17633.herokuapp.com/"
+    }
+  ],
+  "portfolio2": [
+    {
+      "id": "4",
+      "src": "./img/weather.PNG",
+      "title": "Weather Dashboard",
+      "description": "Uses weather API to parse weather data and display weather information based on the city the user inputs",
+      "link": "View Live Deployment",
+      "website": "https://derrick-edowen.github.io/Weather-Dashboard/"
+    },
+    {
+      "id": "5",
+      "src": "./img/work.PNG",
+      "title": "Work Day Scheduler",
+      "description": "Responsive Work day scheduler that allows user to plan out their day. Actively colour coordinated based on current time",
+      "link": "View Live Deployment",
+      "website": "https://derrick-edowen.github.io/Work-Day-Scheduler/"
+    },
+    {
+      "id": "6",
+      "src": "./img/sports.PNG",
+      "title": "Sports Gate",
+      "description": "Uses RapidAPI's LiveScore API to provide users with sports scores",
+      "link": "View Live Deployment",
+      "website": "https://sports-gate-9f077dfaa256.herokuapp.com/"
+    }
+  ],
+  "portfolio3": [
+    {
+      "id": "7",
+      "src": "./img/tech.PNG",
+      "title": "Tech Blog",
+      "description": "Blogging application that utilizes MySQL and Sequelize to create users and display their blog posts",
+      "link": "View Live Deployment",
+      "website": "https://ttech.herokuapp.com/"
+    },
+    {
+      "id": "8",
+      "src": "./img/password.PNG",
+      "title": "Password Generator",
+      "description": "Random password generator that asks user to specific parameters before creating a password  based on those requirements",
+      "link": "View Live Deployment",
+      "website": "https://derrick-edowen.github.io/Password-Generator/"
+    },
+    {
+      "id": "9",
+      "src": "./img/notes.PNG",
+      "title": "Note Taker",
+      "description": "Application utilizing Express.js,that allows a user to create notes and save them",
+      "link": "View Live Deployment",
+      "website": "https://quiet-shore-46614.herokuapp.com/"
+    }
+]
+}
